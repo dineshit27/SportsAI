@@ -70,9 +70,6 @@ The platform leverages **AI video analysis** to validate performances, categoriz
 
 ---
 
-
----
-
 ## 🔧 AthleteHub — Flow Diagram  
 
 ```mermaid

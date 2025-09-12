@@ -2,21 +2,16 @@
 
 <div align="center">
 
-![GitHub license](https://img.shields.io/github/license/yourname/athletehub?style=flat-square&color=blue)  
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)  
-![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Mobile%20%7C%20AI-yellow?style=flat-square)  
-![Status](https://img.shields.io/badge/Status-Prototype-success?style=flat-square)  
+![GitHub license](https://img.shields.io/github/license/yourname/athletehub?style=flat-square&color=blue)  ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)  ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Mobile%20%7C%20AI-yellow?style=flat-square)  ![Status](https://img.shields.io/badge/Status-Prototype-success?style=flat-square)  
 
 </div>
 
 ---
 
 ## 🚀 Introduction
-**AthleteHub** is a **community-driven AI-powered sports platform** designed for athletes to **showcase achievements, upload performance videos, and track progress**.  
-Unlike random video platforms, AthleteHub functions like a **sports library + leaderboard system**, ensuring structured recognition at **zonal, district, state, and national levels**.  
+**AthleteHub** is a **community-driven AI-powered sports platform** designed for athletes to **showcase achievements, upload performance videos, and track progress**. Unlike random video platforms, AthleteHub functions like a **sports library + leaderboard system**, ensuring structured recognition at **zonal, district, state, and national levels**.  
 
-The platform leverages **AI video analysis** to validate performances, categorize skills (stamina, power, techniques), and maintain **fair leaderboards** across multiple sports.  
-It empowers athletes with **transparent recognition, performance tracking, and community engagement**, while enabling coaches and federations to discover hidden talent across India.  
+The platform leverages **AI video analysis** to validate performances, categorize skills (stamina, power, techniques), and maintain **fair leaderboards** across multiple sports. It empowers athletes with **transparent recognition, performance tracking, and community engagement**, while enabling coaches and federations to discover hidden talent across India.  
 
 ---
 
@@ -37,21 +32,13 @@ It empowers athletes with **transparent recognition, performance tracking, and c
 ## 🛠️ Tech Stack  
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)  
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 
 **AI/ML:**  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
 
 ---
 
@@ -70,7 +57,7 @@ graph TD
 
 ---
 
-# File Tree: sportspark-india-main
+# File Tree: SportsAI - AI powered Sports Talent Assessment Website
 
 ```
 ├── 📁 .firebase/ 🚫 (auto-hidden)

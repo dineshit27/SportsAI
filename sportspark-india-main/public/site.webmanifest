@@ -1,0 +1,8 @@
+{
+  "name": "SportsAI",
+  "short_name": "SportsAI",
+  "icons": [],
+  "theme_color": "#0a0f1c",
+  "background_color": "#0a0f1c",
+  "display": "standalone"
+}

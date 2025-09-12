@@ -1,0 +1,28 @@
+{
+  "hosting": {
+    "site": "sports-ai27",
+    "public": "sportspark-india-main/dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "favicon.ico",
+      "favicon.png",
+      "apple-touch-icon.png"
+    ],
+    "headers": [
+      {
+        "source": "/favicon*",
+        "headers": [
+          { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" }
+        ]
+      }
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

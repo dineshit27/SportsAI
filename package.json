@@ -1,0 +1,13 @@
+{
+  "name": "sportspark-root",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix sportspark-india-main run build",
+    "dev": "npm --prefix sportspark-india-main run dev",
+    "preview": "npm --prefix sportspark-india-main run preview",
+    "build:react-app": "npm --prefix react-firebase-leaderboard-app run build"
+  },
+  "dependencies": {
+    "firebase": "^12.2.1"
+  }
+}

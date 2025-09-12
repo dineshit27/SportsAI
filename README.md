@@ -57,6 +57,22 @@ graph TD
 
 ---
 
+## 📸 Screenshots  
+
+<p align="center">
+  <!-- Replace these image paths with your actual project screenshots -->
+  <img src="images/saih.png" alt="Home Page" width="45%"/>
+  <img src="images/sail.png" alt="Prototype Model" width="45%"/>
+</p>
+
+<p align="center">
+  <!-- Replace these image paths with your actual project screenshots -->
+  <img src="images/saic.png" alt="Block & Wiring Diagram" width="45%"/>
+  <img src="images/said.png" alt="Water" width="45%"/>
+</p>
+
+---
+
 # File Tree: SportsAI - AI powered Sports Talent Assessment Website
 
 ```

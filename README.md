@@ -77,7 +77,7 @@ graph TD
 
 <p align="center">
   <!-- Project Abstract -->
-  <a href="Documents/SportsAI_PPT.pdf" target="blank">
+  <a href="Documents/SportsAI_PPT.pptx" target="blank">
     <img src="https://img.shields.io/badge/📑%20Project%20Abstract-Download-blue?style=for-the-badge"/>
   </a>
 </p>

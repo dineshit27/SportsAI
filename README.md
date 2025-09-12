@@ -32,13 +32,44 @@ The platform leverages **AI video analysis** to validate performances, categoriz
 ## 🛠️ Tech Stack  
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) 
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 
-**AI/ML:**  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+**Core AI & ML Frameworks**  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+
+**Computer Vision & Pose Estimation**  
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-4285F4?logo=google&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logo=yolo&logoColor=black)
+![Detectron2](https://img.shields.io/badge/-Detectron2-1DA1F2?logo=facebook&logoColor=white)
+
+**Deepfake & Video Integrity**  
+![Microsoft Video Authenticator](https://img.shields.io/badge/-MS%20Video%20Authenticator-737373?logo=microsoft&logoColor=white)
+![Deepware Scanner](https://img.shields.io/badge/-Deepware%20Scanner-FF4500?logo=shield&logoColor=white)
+![Hive AI](https://img.shields.io/badge/-Hive%20AI-9B59B6?logo=hive&logoColor=white)
+
+**Anomaly Detection & Fairness**  
+![Isolation Forest](https://img.shields.io/badge/-Isolation%20Forest-008080?logo=tree&logoColor=white)
+![Autoencoders](https://img.shields.io/badge/-Autoencoders-FF1493?logo=neural-network&logoColor=white)
+
+**NLP & Integration**  
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-0A84FF?logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+
+---
+
 
 ---
 

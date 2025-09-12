@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub license](https://img.shields.io/github/license/yourname/athletehub?style=flat-square&color=blue)  ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)  ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Mobile%20%7C%20AI-yellow?style=flat-square)  ![Status](https://img.shields.io/badge/Status-Prototype-success?style=flat-square)  
+![GitHub license](https://img.shields.io/github/license/dineshit27/SportsAI?style=flat-square&color=blue)  ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)  ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Mobile%20%7C%20AI-yellow?style=flat-square)  ![Status](https://img.shields.io/badge/Status-Prototype-success?style=flat-square)  
 
 </div>
 

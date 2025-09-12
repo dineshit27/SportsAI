@@ -73,6 +73,17 @@ graph TD
 
 ---
 
+## 📂 Resources  
+
+<p align="center">
+  <!-- Project Abstract -->
+  <a href="Documents/SportsAI_PPT.pdf" target="blank">
+    <img src="https://img.shields.io/badge/📑%20Project%20Abstract-Download-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
 # File Tree: SportsAI - AI powered Sports Talent Assessment Website
 
 ```
